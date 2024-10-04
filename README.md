@@ -7,6 +7,10 @@
 1. Tensor flow 로 만들기 
 
 2. 알고리즘은?
-   1) random forest / log regression
-   2) CNN (추천한다)
-  
+   1) random forest 
+   2) log regression
+   3) CNN (추천한다) ----> 4명
+   4) ANN (CNN 친구) ---> X
+
+3. ML 모델을 2개 만들어본다 (2명 2명)
+4. 평가해본다(같은 test set으로)
